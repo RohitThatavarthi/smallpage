@@ -1,0 +1,2 @@
+# smallpage
+simple page
